@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136553787715",
+    "project_id": "cins467-s25-f6e8d",
+    "storage_bucket": "cins467-s25-f6e8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136553787715:android:dc23ed1cfd95af5214fff6",
+        "android_client_info": {
+          "package_name": "com.example.moodsync_journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjP6pWB_89Ta8jesjnmTxd-a0WfzFWD1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
